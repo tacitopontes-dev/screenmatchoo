@@ -22,12 +22,7 @@ Durante o desenvolvimento, foram abordados e implementados os seguintes tópicos
 
 ## 🛠️ Tecnologias utilizadas
 
-- **Java 17+**
+- **Java 25**
 - **IntelliJ IDEA**
 - **Git & GitHub**
 
-## 🚀 Como executar
-
-1. Clone o repositório:
-```bash
-git clone [https://github.com/tacitopontes-dev/screenmatchoo.git](https://github.com/tacitopontes-dev/screenmatchoo.git)
